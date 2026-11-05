@@ -2,6 +2,10 @@
 
 A small, runnable example for [Greenhouse Jobs Scraper](https://apify.com/aurelix/greenhouse-jobs-scraper), an Apify Actor by Aurelix.
 
+[![Greenhouse Jobs Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/greenhouse-jobs-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/greenhouse-jobs-scraper-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/greenhouse-jobs-scraper-demo-v1.mp4)**
+
 ## What it does
 
 Greenhouse Jobs Scraper collects live job postings directly from employers' own career sites, using the official public job-board APIs of Greenhouse, Lever, Ashby and SmartRecruiters, not a stale database. Give it company boards (greenhouse:geotab, a jobs.ashbyhq.com link, lever:pointclickcare) or a bundled starter list and get one clean schema: title, department, locations, country, Canadian province, remote/hybrid/on-site, salary range when published, posted date and apply link. Turn on new-jobs-only mode for a daily feed of postings you have not seen.
