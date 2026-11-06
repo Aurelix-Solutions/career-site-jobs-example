@@ -1,5 +1,8 @@
 # Greenhouse Jobs Scraper: Python example
 
+**Greenhouse Jobs, Lever, SmartRecruiters Scraper.** Live jobs from a company's Greenhouse, Lever, Ashby or SmartRecruiters board, with salary and Canadian province tags. Price, example input and output, and FAQ: [Greenhouse Jobs Scraper on the Aurelix tools site](https://aurelix-solutions.github.io/tools/greenhouse-jobs-scraper/). Run it on the Apify Store: [apify.com/aurelix/greenhouse-jobs-scraper](https://apify.com/aurelix/greenhouse-jobs-scraper).
+
+
 **The problem:** You want every open job at a list of companies, read straight from their Greenhouse, Lever, Ashby or SmartRecruiters careers pages, without checking each page by hand.
 
 **The tool:** [Greenhouse Jobs Scraper](https://apify.com/aurelix/greenhouse-jobs-scraper), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
